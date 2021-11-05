@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "630917307630",
+    "project_id": "sosapp-efa3a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630917307630:android:b859094c9e8bf013",
+        "android_client_info": {
+          "package_name": "com.example.sstto.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630917307630-55lc9lgkkqe83tt9iijphhgo3c5or1pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sstto.sos",
+            "certificate_hash": "c1b1a3b1671017f70edfcf35ce085dd16b503f6f"
+          }
+        },
+        {
+          "client_id": "630917307630-ampfvj3be3ee6vrtnr5pv5hfl7qnqf5b.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "630917307630-7qs2uhisvt39lr9068mcf0vkf0m0mtip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sstto.sos",
+            "certificate_hash": "7374653095ba232cf9564bb217025be8c5dd13e4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXjUB16FrHetPXuOObQ-cCvAFJ6DKXOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
